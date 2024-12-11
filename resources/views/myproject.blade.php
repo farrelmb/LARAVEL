@@ -16,7 +16,7 @@
         </div>
         <nav>
             <ul>
-                <li><a href="/home">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li><a href="/prjct">My Project</a></li>
                 <li><a href="/cntc">Contact</a></li>
             </ul>
